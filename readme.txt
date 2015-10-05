@@ -36,6 +36,7 @@ Bu eklenti, İmam Nevevî'nin yazmış olduğu ve tam adı "Riyâzü's-sâlihîn
 
 1. Bileşen, Görünüm/Bileşenler sayfasına yerleşiyor.
 2. Bileşenin sitede görünümü.
+3. Sayfada [Duamatik] etikenin kullanım şekli.
 
 == Frequently Asked Questions ==
 
