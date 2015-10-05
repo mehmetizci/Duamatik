@@ -1,4 +1,5 @@
 === Plugin Name ===
+
 Tags: hadis, hadisi şerif, dua, Hz. Muhammed (S.A.V), wordpress, hadis eklentisi, dua eklentisi, imam nevevi, islam, müslüman
 
 Bu eklenti, İmam Nevevî'nin yazmış olduğu ve tam adı "Riyâzü's-sâlihîn min hadîsi seyyidi'l-mürselîn" olan eserindeki hadis-i şeriflerde geçen duaları, rastgele bir sıra ile ziyaretçilerinize göstermektedir.
