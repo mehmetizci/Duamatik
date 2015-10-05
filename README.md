@@ -1,12 +1,19 @@
 === Plugin Name ===
-
+Contributors: duamatik
 Tags: hadis, hadisi şerif, dua, Hz. Muhammed (S.A.V), wordpress, hadis eklentisi, dua eklentisi, imam nevevi, islam, müslüman
+Requires at least: 3.7
+Tested up to: 4.3
+Stable tag: 1.0
 
-Bu eklenti, İmam Nevevî'nin yazmış olduğu ve tam adı "Riyâzü's-sâlihîn min hadîsi seyyidi'l-mürselîn" olan eserindeki hadis-i şeriflerde geçen duaları, rastgele bir sıra ile ziyaretçilerinize göstermektedir.
+Bu eklenti, Peygamber efendimiz (S.A.V)'in hadis-i şeriflerinde geçen duaları rastgele göstermektedir.
 
 == Description ==
 
-Peygamber Efendimiz Hz. Muhammed Mustafa (S.A.V.) farklı rivayetlerde bizlere şöyle buyuruyor;
+TR:Bu eklenti, Peygamber efendimiz (S.A.V)'in hadis-i şeriflerinde geçen duaları rastgele göstermektedir.
+EN:This WordPress plugin shows as random Prophet (PBUH) hadith that contains prayers
+
+Hadis Peygamber Efendimiz (s.av)'in söylediği sözlerdir.
+Peygamber Efendimiz Hz. Muhammed Mustafa (S.A.V.) farklı rivayetlerdeki hadis-i şeriflerde şöyle buyuruyor;
 Kırk hadis bırakarak vefat eden Cennette arkadaşımdır. (Deylemi),
 Allahü teâlânın rızası için, helâli ve haramı açıklayan, kırk hadisi ümmetime bildiren, âlim olarak haşr olur. (Ebu Nuaym),
 Ümmetimin din işlerinde faydalı kırk hadis ezberleyen, âlimlerle haşr olur. (Taberani),
