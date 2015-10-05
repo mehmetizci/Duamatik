@@ -1,5 +1,4 @@
 === Plugin Name ===
-
 Contributors: duamatik
 Tags: hadis, hadisi şerif, dua, Hz. Muhammed (S.A.V), wordpress, hadis eklentisi, dua eklentisi, imam nevevi, islam, müslüman
 Requires at least: 3.7
